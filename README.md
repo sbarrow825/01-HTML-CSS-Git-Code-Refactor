@@ -1,7 +1,8 @@
 # HTML-CSS Code Refactoring
 
-Refactored an html website for Horiseon in order to improve accessiblility. Included many ease of understanding changes such as adding sementic HTML elements in place of <div> tags, fixed
-links on the webpage such that they scroll to the correct element, included smooth scrolling so the client can more easily see how the page moved when clicking on a link, applied proper indentation to the html code, and added alt tags to all images.
+Refactored an html website for the company Horiseon in order to improve accessiblility. Added sementic HTML elements, fixed 
+links on the webpagesuch that they scroll to the correct element, included smooth scrolling so the client can more easily see
+ how the page moved when clicking on alink, applied proper indentation to the html code, and added alt tags to all images.
 
 ## Built With
 
@@ -14,7 +15,7 @@ links on the webpage such that they scroll to the correct element, included smoo
 
 ## Authors
 
-* **YOUR NAME** 
+* Sam Barrow
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/sbarrow825)
